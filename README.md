@@ -1,4 +1,4 @@
-# Programmer Blog - How to create web services in php using NuSOAP library
+# How to create web services in php using NuSOAP library
 
 Download code or clone repository in to your system. If you have GIT installed. Open command line and go to root direcotry (www or wwwroot) of your WAMP, MAMP or XAMPP directory.
 
@@ -27,6 +27,6 @@ Tasks performed in this tutorial
 # To read detailed tutorial.
    http://programmerblog.net/web-services-in-php-using-nusoap/
 
-# Programmer Blog
+### Programmer Blog
   http://programmerblog.net
 
