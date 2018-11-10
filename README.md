@@ -23,6 +23,13 @@ Tasks performed in this tutorial
 
 7. Client receives data from web service and display to user.
 
+8. Add a new form to insert book data
+
+9. Send new book data to web service
+
+10. Insert data into mysql database using SOAP webservice
+
+
 
 ## To read detailed tutorial.
    http://programmerblog.net/web-services-in-php-using-nusoap/
